@@ -1,0 +1,27 @@
+{
+ "name": "Everforest Light Hard",
+
+ "cursorColor": "#5C6A72",
+ "selectionBackground": "#F0F2D4",
+
+ "background": "#FFFBEF",
+ "foreground": "#5C6A72",
+
+ "black": "#5C6A72",
+ "red": "#F85552",
+ "green": "#8DA101",
+ "yellow": "#DFA000",
+ "blue": "#3A94C5",
+ "purple": "#DF69BA",
+ "cyan": "#35A77C",
+ "white": "#EDEADA",
+
+ "brightBlack": "#5C6A72",
+ "brightRed": "#F85552",
+ "brightGreen": "#8DA101",
+ "brightYellow": "#DFA000",
+ "brightBlue": "#3A94C5",
+ "brightPurple": "#DF69BA",
+ "brightCyan": "#35A77C",
+ "brightWhite": "#EDEADA"
+}

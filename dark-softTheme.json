@@ -1,0 +1,15 @@
+{
+ "name": "Everforest Dark Soft",
+ "tab": {
+ "background": "#333C43FF",
+ "showCloseButton": "always",
+ "unfocusedBackground": null
+ },
+ "tabRow": {
+ "background": "#293136FF",
+ "unfocusedBackground": "#293136FF"
+ },
+ "window": {
+ "applicationTheme": "dark"
+ }
+}

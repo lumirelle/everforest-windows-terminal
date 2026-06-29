@@ -1,0 +1,15 @@
+{
+ "name": "Everforest Light Hard",
+ "tab": {
+ "background": "#FFFBEFFF",
+ "showCloseButton": "always",
+ "unfocusedBackground": null
+ },
+ "tabRow": {
+ "background": "#F2EFDFFF",
+ "unfocusedBackground": "#F2EFDFFF"
+ },
+ "window": {
+ "applicationTheme": "light"
+ }
+}
