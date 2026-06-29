@@ -1,0 +1,15 @@
+{
+  "name": "Everforest Dark Hard",
+  "tab": {
+    "background": "#272E33FF", // bg0
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#1E2326FF", // bg_dim
+    "unfocusedBackground": "#1E2326FF" // bg_dim
+  },
+  "window": {
+    "applicationTheme": "dark"
+  }
+}

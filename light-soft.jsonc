@@ -1,0 +1,27 @@
+{
+  "name": "Everforest Light Soft",
+
+  "cursorColor": "#5C6A72", // fg
+  "selectionBackground": "#E1E4BD", // bg_visual
+
+  "background": "#F3EAD3", // bg0
+  "foreground": "#5C6A72", // fg
+
+  "black": "#5C6A72", // fg
+  "red": "#F85552", // red
+  "green": "#8DA101", // green
+  "yellow": "#DFA000", // yellow
+  "blue": "#3A94C5", // blue
+  "purple": "#DF69BA", // purple
+  "cyan": "#35A77C", // aqua
+  "white": "#DDD8BE", // bg3
+
+  "brightBlack": "#5C6A72", // fg
+  "brightRed": "#F85552", // red
+  "brightGreen": "#8DA101", // green
+  "brightYellow": "#DFA000", // yellow
+  "brightBlue": "#3A94C5", // blue
+  "brightPurple": "#DF69BA", // purple
+  "brightCyan": "#35A77C", // aqua
+  "brightWhite": "#DDD8BE" // bg3
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Everforest Dark Medium",
+
+  "cursorColor": "#D3C6AA", // fg
+  "selectionBackground": "#543A48", // bg_visual
+
+  "background": "#2D353B", // bg0
+  "foreground": "#D3C6AA", // fg
+
+  "black": "#475258", // bg3
+  "red": "#E67E80", // red
+  "green": "#A7C080", // green
+  "yellow": "#DBBC7F", // yellow
+  "blue": "#7FBBB3", // blue
+  "purple": "#D699B6", // purple
+  "cyan": "#83C092", // aqua
+  "white": "#D3C6AA", // fg
+
+  "brightBlack": "#475258", // bg3
+  "brightRed": "#E67E80", // red
+  "brightGreen": "#A7C080", // green
+  "brightYellow": "#DBBC7F", // yellow
+  "brightBlue": "#7FBBB3", // blue
+  "brightPurple": "#D699B6", // purple
+  "brightCyan": "#83C092", // aqua
+  "brightWhite": "#D3C6AA" // fg
+}

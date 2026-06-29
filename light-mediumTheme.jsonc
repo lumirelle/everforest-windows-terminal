@@ -1,0 +1,15 @@
+{
+  "name": "Everforest Light Medium",
+  "tab": {
+    "background": "#FDF6E3FF", // bg0
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#EFEBD4FF", // bg_dim
+    "unfocusedBackground": "#EFEBD4FF" // bg_dim
+  },
+  "window": {
+    "applicationTheme": "light"
+  }
+}
