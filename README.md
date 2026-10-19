@@ -2,7 +2,7 @@
 
 Six variants: dark/light × hard/medium/soft.
 
-Everforest is designed by [sainnhe](https://github.com/sainnhe) under the MIT license. This is an unofficial port for Windows Terminal.
+Everforest is designed by [sainnhe](https://github.com/sainnhe), this is an unofficial port for Windows Terminal.
 
 ## Sources
 
@@ -31,3 +31,9 @@ Copy the variant you want:
 2. Copy the raw content of `variantTheme.jsonc` into `themes` field of Windows Terminal's configuration file `settings.json`;
 3. Choose the scheme and theme in Windows Terminal's settings;
 4. Enjoy!
+
+## License
+
+Licensed under the [MIT License](LICENSE.md).
+
+This project includes material derived from [sainnhe/everforest](https://github.com/sainnhe/everforest). See [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
