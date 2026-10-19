@@ -1,3 +1,9 @@
+# Third-Party Notices
+
+## Everforest — https://github.com/sainnhe/everforest
+
+Applies to: the ANSI colour mapping in the `*.jsonc` files in this repository.
+
 MIT License
 
 Copyright (c) 2019 sainnhe
