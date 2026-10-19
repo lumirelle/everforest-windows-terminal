@@ -2,9 +2,11 @@
 
 Six variants: dark/light × hard/medium/soft.
 
+Everforest is designed by [sainnhe](https://github.com/sainnhe) under the MIT license. This is an unofficial port for Windows Terminal.
+
 ## Sources
 
-- Colors: [everforest/nvim `palette.md`](https://github.com/everforest/nvim/blob/main/palette.md)
+- Colors:  [sainnhe/everforest `palette.md`](https://github.com/sainnhe/everforest/blob/master/palette.md)
 - ANSI mapping: [sainnhe/everforest `colors/everforest.vim`](https://github.com/sainnhe/everforest/blob/master/colors/everforest.vim)
 
 ## Mapping
